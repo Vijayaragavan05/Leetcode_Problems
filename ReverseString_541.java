@@ -1,4 +1,3 @@
-package Leetcode;
 
 public class ReverseString_541 {
     public static void main(String args[]){
@@ -25,3 +24,4 @@ public class ReverseString_541 {
         j--;
     }
 }
+
