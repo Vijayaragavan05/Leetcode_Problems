@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -46,4 +47,5 @@
 |  |
 | ------- |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
