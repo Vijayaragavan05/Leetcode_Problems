@@ -46,6 +46,11 @@
 ## Math
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
