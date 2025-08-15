@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -22,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
