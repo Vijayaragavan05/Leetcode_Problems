@@ -17,6 +17,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -50,6 +51,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3396-valid-word) |
 ## Hash Table
@@ -59,6 +61,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Queue
 |  |
@@ -90,6 +93,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2639-separate-the-digits-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
