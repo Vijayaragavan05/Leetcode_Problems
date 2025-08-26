@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -51,6 +52,7 @@
 | [0049-group-anagrams](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -61,6 +63,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
