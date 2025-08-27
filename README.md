@@ -55,6 +55,7 @@
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3396-valid-word) |
@@ -65,6 +66,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
