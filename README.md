@@ -11,6 +11,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -28,11 +29,13 @@
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1894-merge-strings-alternately](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
