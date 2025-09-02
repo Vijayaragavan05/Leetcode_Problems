@@ -138,4 +138,5 @@
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1179-game-play-analysis-i) |
+| [1827-invalid-tweets](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
