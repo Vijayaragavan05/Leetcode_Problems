@@ -134,4 +134,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
