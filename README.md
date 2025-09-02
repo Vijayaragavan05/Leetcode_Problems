@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0476-number-complement](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
