@@ -10,6 +10,7 @@
 | [0414-third-maximum-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -109,6 +110,7 @@
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
