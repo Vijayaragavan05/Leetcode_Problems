@@ -1,12 +1,14 @@
 class Solution {
     public boolean isFascinating(int n) {
-        String num = "" + n + 2*n + 3*n;
-        if(num.length() != 9)   return false;
-        boolean[] seen = new boolean[10];
-        for(char ch : num.toCharArray()){
-            int d = ch - '0';
-            if(d==0 || seen[d]==true)   return false;
-            seen[d] = true;
+        String s = ""+n+(2*n)+(3*n);
+        if(s.length()!=9){
+            return false;
+        }
+        HashSet<Integer> hs = new HashSet<>();
+        for(int i=0;i<s.length();i++){
+            int dig = s.charAt(i)-'0';
+            if(dig ==0 || hs.contains(dig)) return false;
+            hs.add(dig);
         }
         return true;
     }
