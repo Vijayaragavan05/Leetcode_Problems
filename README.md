@@ -25,6 +25,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2664-maximize-greatness-of-an-array) |
@@ -104,6 +105,7 @@
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -119,6 +121,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +140,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
