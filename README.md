@@ -104,6 +104,7 @@
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -141,6 +142,7 @@
 | [2722-prime-in-diagonal](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2812-find-the-maximum-achievable-number) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
