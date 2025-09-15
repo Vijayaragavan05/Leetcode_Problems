@@ -91,6 +91,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2886-faulty-keyboard) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3207-make-three-strings-equal](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3207-make-three-strings-equal) |
 | [3379-score-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3396-valid-word) |
