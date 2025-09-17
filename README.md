@@ -47,6 +47,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1894-merge-strings-alternately](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -89,6 +90,7 @@
 | [1894-merge-strings-alternately](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1970-sorting-the-sentence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1970-sorting-the-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0164-maximum-gap) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
