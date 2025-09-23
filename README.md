@@ -12,6 +12,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0500-keyboard-row) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -204,6 +206,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
