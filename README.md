@@ -69,6 +69,7 @@
 | [0049-group-anagrams](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0414-third-maximum-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0414-third-maximum-number) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -95,6 +96,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
