@@ -30,6 +30,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -80,6 +81,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2664-maximize-greatness-of-an-array) |
@@ -212,6 +214,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2664-maximize-greatness-of-an-array) |
