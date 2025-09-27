@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -165,6 +166,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1236-n-th-tribonacci-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -275,6 +277,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
