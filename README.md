@@ -58,6 +58,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -106,6 +107,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -135,6 +137,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -294,6 +297,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Monotonic Stack
 |  |
