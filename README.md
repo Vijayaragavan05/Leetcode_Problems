@@ -182,6 +182,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1642-water-bottles](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1879-maximum-score-from-removing-stones) |
@@ -203,6 +204,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
