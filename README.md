@@ -128,6 +128,7 @@
 | [3379-score-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Queue
@@ -167,6 +169,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Bit Manipulation
