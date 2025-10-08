@@ -128,6 +128,7 @@
 | [2886-faulty-keyboard](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2886-faulty-keyboard) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3207-make-three-strings-equal](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3207-make-three-strings-equal) |
+| [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3379-score-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -155,6 +156,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -209,6 +211,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3859-maximum-product-of-two-digits) |
@@ -232,6 +235,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
+| [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -245,6 +249,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Greedy
 |  |
 | ------- |
@@ -289,6 +294,7 @@
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
+| [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Backtracking
 |  |
 | ------- |
