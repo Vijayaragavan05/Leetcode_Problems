@@ -135,6 +135,7 @@
 | [3379-score-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Hash Table
@@ -161,6 +162,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -248,6 +250,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
@@ -269,6 +272,7 @@
 | [2756-buy-two-chocolates](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -319,6 +323,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
 | ------- |
