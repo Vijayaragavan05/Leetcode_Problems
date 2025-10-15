@@ -124,6 +124,7 @@
 | [1894-merge-strings-alternately](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1970-sorting-the-sentence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1970-sorting-the-sentence) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
