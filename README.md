@@ -141,6 +141,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3931-process-string-with-special-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3931-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2886-faulty-keyboard) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3931-process-string-with-special-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
