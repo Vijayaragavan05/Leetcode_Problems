@@ -57,6 +57,7 @@
 | [3463-alternating-groups-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3463-alternating-groups-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2756-buy-two-chocolates](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3859-maximum-product-of-two-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
@@ -280,6 +282,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
