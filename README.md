@@ -15,6 +15,7 @@
 | [0496-next-greater-element-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
