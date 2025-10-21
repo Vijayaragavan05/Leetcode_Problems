@@ -217,6 +217,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -265,6 +266,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Greedy
