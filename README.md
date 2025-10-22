@@ -132,6 +132,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2886-faulty-keyboard) |
@@ -240,6 +241,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
