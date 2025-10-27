@@ -59,6 +59,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Two Pointers
 |  |
