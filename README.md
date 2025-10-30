@@ -208,6 +208,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0755-reach-a-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0755-reach-a-number) |
+| [0856-consecutive-numbers-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0856-consecutive-numbers-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -273,6 +274,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0856-consecutive-numbers-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0856-consecutive-numbers-sum) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
