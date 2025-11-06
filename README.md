@@ -145,6 +145,7 @@
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3207-make-three-strings-equal](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3207-make-three-strings-equal) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3379-score-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -299,6 +300,7 @@
 | [2756-buy-two-chocolates](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -308,6 +310,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1236-n-th-tribonacci-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Database
 |  |
 | ------- |
