@@ -16,6 +16,7 @@
 | [0500-keyboard-row](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -122,6 +123,7 @@
 | [0500-keyboard-row](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -378,4 +380,12 @@
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Union Find
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
+## Graph
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
