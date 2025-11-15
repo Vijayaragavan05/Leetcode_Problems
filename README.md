@@ -247,6 +247,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3859-maximum-product-of-two-digits) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
