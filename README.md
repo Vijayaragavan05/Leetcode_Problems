@@ -15,6 +15,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0755-reach-a-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0755-reach-a-number) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
