@@ -10,6 +10,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -301,6 +302,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1879-maximum-score-from-removing-stones) |
