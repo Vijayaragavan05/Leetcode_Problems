@@ -30,6 +30,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -221,6 +222,7 @@
 | [0645-set-mismatch](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1829-maximum-xor-for-each-query](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1829-maximum-xor-for-each-query) |
 ## Math
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Heap (Priority Queue)
