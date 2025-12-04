@@ -149,6 +149,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2365-percentage-of-letter-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2886-faulty-keyboard) |
@@ -271,6 +272,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -373,6 +375,7 @@
 | [0496-next-greater-element-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
