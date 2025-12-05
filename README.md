@@ -30,6 +30,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1829-maximum-xor-for-each-query](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -267,6 +270,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -407,4 +411,8 @@
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
