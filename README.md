@@ -59,6 +59,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3115-maximum-prime-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3115-maximum-prime-difference) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -259,6 +260,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3115-maximum-prime-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3115-maximum-prime-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
+| [3115-maximum-prime-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3115-maximum-prime-difference) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Backtracking
 |  |
