@@ -64,6 +64,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3463-alternating-groups-i) |
+| [3468-find-the-number-of-copy-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -263,6 +264,7 @@
 | [3115-maximum-prime-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3115-maximum-prime-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
+| [3468-find-the-number-of-copy-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
