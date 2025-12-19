@@ -239,6 +239,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1642-water-bottles) |
@@ -318,6 +319,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
