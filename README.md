@@ -346,6 +346,7 @@
 |  |
 | ------- |
 | [0619-biggest-single-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0619-biggest-single-number) |
+| [1070-product-sales-analysis-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1070-product-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1179-game-play-analysis-i) |
 | [1827-invalid-tweets](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1827-invalid-tweets) |
 ## String Matching
