@@ -155,6 +155,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2886-faulty-keyboard) |
@@ -298,6 +299,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Heap (Priority Queue)
 |  |
