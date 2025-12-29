@@ -10,6 +10,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0414-third-maximum-number) |
@@ -323,6 +324,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
