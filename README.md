@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -239,6 +240,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0755-reach-a-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0755-reach-a-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0856-consecutive-numbers-sum) |
