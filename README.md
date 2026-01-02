@@ -21,6 +21,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1288-remove-covered-intervals](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
@@ -186,6 +187,7 @@
 | [0500-keyboard-row](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
