@@ -26,6 +26,7 @@
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1288-remove-covered-intervals](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1390-four-divisors](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -249,6 +250,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1390-four-divisors](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
