@@ -57,6 +57,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -129,6 +130,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -388,6 +390,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1975-maximum-matrix-sum) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
