@@ -73,6 +73,7 @@
 | [3115-maximum-prime-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3115-maximum-prime-difference) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3463-alternating-groups-i) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3468-find-the-number-of-copy-arrays) |
@@ -247,6 +248,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-xor-for-each-query](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Math
 |  |
 | ------- |
