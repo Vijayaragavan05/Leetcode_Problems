@@ -40,6 +40,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1829-maximum-xor-for-each-query](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1975-maximum-matrix-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1975-maximum-matrix-sum) |
@@ -92,6 +93,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2128-reverse-prefix-of-word](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -123,6 +125,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -346,6 +349,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [1975-maximum-matrix-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1975-maximum-matrix-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
