@@ -45,6 +45,7 @@
 | [1975-minimum-distance-to-the-target-element](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1975-maximum-matrix-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1975-maximum-matrix-sum) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -127,6 +128,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1970-sorting-the-sentence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -430,6 +432,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3463-alternating-groups-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3463-alternating-groups-i) |
 ## Monotonic Stack
