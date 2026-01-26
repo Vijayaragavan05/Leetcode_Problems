@@ -25,6 +25,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1044-find-common-characters) |
+| [1200-minimum-absolute-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -121,6 +122,7 @@
 | [0414-third-maximum-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
