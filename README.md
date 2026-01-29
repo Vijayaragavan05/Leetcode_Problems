@@ -87,6 +87,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3668-restore-finishing-order](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3668-restore-finishing-order) |
 | [3708-longest-fibonacci-subarray](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3708-longest-fibonacci-subarray) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Two Pointers
@@ -146,6 +147,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3859-maximum-product-of-two-digits](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
@@ -338,6 +340,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Enumeration
 |  |
 | ------- |
@@ -369,6 +372,7 @@
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
