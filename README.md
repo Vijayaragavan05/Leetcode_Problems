@@ -72,6 +72,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3115-maximum-prime-difference](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3115-maximum-prime-difference) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -145,6 +146,7 @@
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2756-buy-two-chocolates](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -347,6 +349,7 @@
 | [0856-consecutive-numbers-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0856-consecutive-numbers-sum) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Greedy
 |  |
