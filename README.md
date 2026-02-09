@@ -10,6 +10,7 @@
 | [0137-single-number-ii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0330-patching-array) |
@@ -95,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -266,6 +268,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0755-reach-a-number](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0755-reach-a-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/0856-consecutive-numbers-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
