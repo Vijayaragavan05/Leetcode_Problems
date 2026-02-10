@@ -90,6 +90,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3668-restore-finishing-order](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3668-restore-finishing-order) |
 | [3708-longest-fibonacci-subarray](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3708-longest-fibonacci-subarray) |
+| [3719-longest-balanced-subarray-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3979-partition-array-into-k-distinct-groups) |
@@ -230,6 +231,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3668-restore-finishing-order) |
+| [3719-longest-balanced-subarray-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3979-partition-array-into-k-distinct-groups) |
@@ -336,6 +338,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3210-count-beautiful-substrings-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3210-count-beautiful-substrings-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -476,4 +479,12 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Vijayaragavan05/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
